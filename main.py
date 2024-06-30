@@ -11,10 +11,8 @@ def main():
         maxnum = num3
     
 
-    print(f'The greates number is {maxnum}')
-    ########################################
-    # Do not delete the return statement
-    ########################################
+    print(f'The greatest number is {maxnum}')
+   
     return maxnum
 
 
